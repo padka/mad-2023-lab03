@@ -16,7 +16,7 @@
 + Button
 + Radio Button
 + CheckBox
-+ Selector
++ Switch
 
 Каждый экрна приложения должен представлять собой отдельную Activity,
 навигация в приложении должна осуществяться с помощью методов startActivity 
