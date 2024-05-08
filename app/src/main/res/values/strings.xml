@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="start_game">Начать игру</string>
+    <string name="next">Далее</string>
+    <string name="result">Результат</string>
+    <string name="start_over">Начать заново</string>
+    <string name="yes_no_question">Земля круглая?</string>
+    <string name="edit_text_question">Какой город является столицей Франции?</string>
+    <string name="single_choice_question">Какой планета является самой большой?</string>
+    <string name="multiple_choice_question">Какие из следующих являются языками программирования?</string>
+    <string name="correct_answers">Правильных ответов</string>
+    <string name="incorrect_answers">Неправильных ответов</string>
+</resources>
